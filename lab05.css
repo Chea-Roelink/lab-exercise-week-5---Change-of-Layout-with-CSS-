@@ -20,7 +20,6 @@ fieldset {
     border-bottom: 0px;
     border-top: 0px;
     border-color: aqua;
-    margin: 0% 20%;
 }
 
 /* header styles */
@@ -82,7 +81,6 @@ article aside:hover {
 table{
     border-collapse: collapse;
     border: solid 1px black;
-    padding: 10px;
 }
 td, th {
     border: 1px solid black;
